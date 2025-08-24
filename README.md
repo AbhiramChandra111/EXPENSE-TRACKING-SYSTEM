@@ -1,2 +1,3 @@
 # EXPENSE-TRACKING-SYSTEM
 A responsive expense tracking system that helps you track your daily expenses.
+This project is a Responsive Expense Tracking System developed using the MERN stack (MongoDB, Express.js, React, and Node.js). It helps users efficiently manage their daily income and expenses through an intuitive and responsive web interface that works seamlessly on both desktop and mobile devices. The application allows users to add, edit, and categorize transactions, while providing a clear overview of spending and earnings. With features like authentication, secure data storage, and interactive dashboards, the system makes personal finance management simple, organized, and accessible.
